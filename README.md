@@ -1,4 +1,4 @@
-# Ram Hemareddy AWS CICD Pipeline Code Deployment to AWS EC2 Instance
+# SAMIKSHA INSTANCE EC2
 
 
 <b>User Data for Dependencies installations for AMAZON Linux 2:-</b>
